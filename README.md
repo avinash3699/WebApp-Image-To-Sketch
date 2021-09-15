@@ -41,4 +41,4 @@ Shortcut that can be done after Step 4 to download the image
 
 ## Future Scope
 
-> Considering the fact that every image is unique in it's own way, we cannot use the same editing parameters to convert all images to it's sketched one with absolute perfection. So, by using a combination of sliders, we can change the paramters individually which results in perfection is the future scope of this Web App!
+Considering the fact that every image is unique in it's own way, we cannot use the same editing parameters to convert all images to it's sketched one with absolute perfection. So, by using a combination of sliders, we can change the paramters individually which results in perfection which is the future scope of this Web App!
